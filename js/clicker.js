@@ -163,7 +163,7 @@ window.addEventListener('load', (event) => {
  */
 upgrades = [
     {
-        name: 'Kebab pizza',
+        name: 'Kebabpizza',
         class: 'kebab',
         cost: 10,
         amount: 1,
